@@ -1,3 +1,4 @@
 A CNN used to classify 7000 images into 8 classes.
 Used image augmentation technique to add another 7000 images in training set.
-Used vgg16 as base model, applied transfer learning to get better model. 
+Used vgg16 as base model, applied transfer learning to get better accuracy.
+Final classification accuracy is apporximately 75%. 
